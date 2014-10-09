@@ -10,9 +10,9 @@ Merge the training and the test sets to create one data set and Extracts only th
 	From data frame from in 1.2 only get the subset of columns that matches the names found in step 1.2 to create the   		smallerTraining df
   Create a "training" combining columns from df above with columns from "train/subject_train.txt" ,"train/Y_train.txt" and the 	selected columns that has "-mean" and "-std" from  "train/X_train.txt" .
 
-	Work with "test/subject_test.txt" , "test/Y_test.txt", test/X_test.txt" similar to above training data sets and create Testing data.
+ Work with "test/subject_test.txt" , "test/Y_test.txt", test/X_test.txt" similar to above training data sets and create Testing data.
 
-	combine the rows of training and testing data frame to get the comprehensive data set.
+combine the rows of training and testing data frame to get the comprehensive data set.
 
 Appropriately labels the data set with descriptive variable names 
 	substitute columen name with "-mean" with ".Mean."

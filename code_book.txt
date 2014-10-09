@@ -1,0 +1,93 @@
+	colnames    - descriptions
+	1	Subject  - subject id
+	2	Activity - descriptive Activity name
+
+	3	tBodyAcc.Mean.X -total body Acc mean value on X axis
+	4	tBodyAcc.Mean.Y -total body Acc mean value on Y axis
+	5	tBodyAcc.Mean.Z - total body Acc mean value on Z axis
+	6	tBodyAcc.Std.X  - total body acc standard deviation on X axis
+	7	tBodyAcc.Std.Y  - total body acc standard deviation on Y axis
+	8	tBodyAcc.Std.Z  - total body acc standard deviation on Z axis
+
+	9	tGravityAcc.Mean.X - Total Gravity Acc mean value on X axis
+	10	tGravityAcc.Mean.Y - Total Gravity Acc mean value on Y axis
+	11	tGravityAcc.Mean.Z - Total Gravity Acc mean value on Z axis
+	12	tGravityAcc.Std.X  - Total Gravity Acc std deviation on X axis
+	13	tGravityAcc.Std.Y  - Total Gravity Acc std deviation on Y axis
+	14	tGravityAcc.Std.Z  - Total Gravity Acc std deviation on Z axis
+
+	15	tBodyAccJerk.Mean.X - total body Acc Jerk Mean value on X axis
+	16	tBodyAccJerk.Mean.Y - total body Acc Jerk Mean value on Y axis
+	17	tBodyAccJerk.Mean.Z - total body Acc Jerk Mean value on Z axis
+	18	tBodyAccJerk.Std.X  -total body Acc Jerk standard deviation on x axis
+	19	tBodyAccJerk.Std.Y  -total body Acc Jerk standard deviation on y axis
+	20	tBodyAccJerk.Std.Z  -total body Acc Jerk standard deviation on z axis
+
+	21	tBodyGyro.Mean.X -total body gyro mean value on X axis
+	22	tBodyGyro.Mean.Y -total body gyro mean value on Y axis
+	23	tBodyGyro.Mean.Z -total body gyro mean value on Z axis
+	24	tBodyGyro.Std.X - total Body Gyro standard deviation on x axis
+	25	tBodyGyro.Std.Y - total Body Gyro standard deviation on y axis
+	26	tBodyGyro.Std.Z - total Body Gyro standard deviation on z axis
+	27	tBodyGyroJerk.Mean.X -total body Gyro jerk Mean value on x axis
+	28	tBodyGyroJerk.Mean.Y -total body Gyro jerk Mean value on y axis
+	29	tBodyGyroJerk.Mean.Z -total body Gyro jerk Mean value on z axis
+	30	tBodyGyroJerk.Std.X - total body Gyro Jerk Standard deviation on x axis  
+	31	tBodyGyroJerk.Std.Y - total body Gyro jerk Standard deviation on y axis
+	32	tBodyGyroJerk.Std.Z total body Gyro jerk Standard deviation on z axis
+	33	tBodyAccMag.Mean -total body Acc Mag mean value
+	34	tBodyAccMag.Std -total body Acc Mag standard deviation
+	35	tGravityAccMag.Mean - total gravity Acc Mag Mean value
+	36	tGravityAccMag.Std - total gravity Acc Mag standard deviation 
+	37	tBodyAccJerkMag.Mean -total body Acc Jerk Mag Mean value
+	38	tBodyAccJerkMag.Std -total body Acc Jerk Mag standard deviation
+	39	tBodyGyroMag.Mean - total body Gyro Mag Mean value
+	40	tBodyGyroMag.Std - total body Gyro Mag standard deviation
+	41	tBodyGyroJerkMag.Mean - total body Gyro Jerk Mag Mean value
+	42	tBodyGyroJerkMag.Std -total body Gyro Jerk Mag Standard deviation
+	43	fBodyAcc.Mean.X - full body Acc Mean value on x axis
+	44	fBodyAcc.Mean.Y - full body Acc Mean value on y axis
+	45	fBodyAcc.Mean.Z- full body Acc Mean value on z axis
+	46	fBodyAcc.Std.X- full body Acc stand deviation on x axis
+	47	fBodyAcc.Std.Y- full body Acc standard deviation on y axis
+	48	fBodyAcc.Std.Z- full body Acc standard deviation on z axis
+
+	49	fBodyAcc.Mean.FreqX -full body acc Mean freq on X axis
+	50	fBodyAcc.Mean.FreqY -full body acc Mean freq on Y axis
+	51	fBodyAcc.Mean.FreqZ -full body acc Mean freq on Z axis
+
+	52	fBodyAccJerk.Mean.X
+	53	fBodyAccJerk.Mean.Y
+	54	fBodyAccJerk.Mean.Z
+
+	55	fBodyAccJerk.Std.X
+	56	fBodyAccJerk.Std.Y
+	57	fBodyAccJerk.Std.Z
+
+	58	fBodyAccJerk.Mean.FreqX
+	59	fBodyAccJerk.Mean.FreqY
+	60	fBodyAccJerk.Mean.FreqZ
+
+	61	fBodyGyro.Mean.X
+	62	fBodyGyro.Mean.Y
+	63	fBodyGyro.Mean.Z
+	64	fBodyGyro.Std.X
+	65	fBodyGyro.Std.Y
+	66	fBodyGyro.Std.Z
+
+	67	fBodyGyro.Mean.FreqX
+	68	fBodyGyro.Mean.FreqY
+	69	fBodyGyro.Mean.FreqZ
+
+	70	fBodyAccMag.Mean
+	71	fBodyAccMag.Std
+	72	fBodyAccMag.Mean.Freq
+	73	fBodyBodyAccJerkMag.Mean
+	74	fBodyBodyAccJerkMag.Std
+	75	fBodyBodyAccJerkMag.Mean.Freq
+	76	fBodyBodyGyroMag.Mean
+	77	fBodyBodyGyroMag.Std
+	78	fBodyBodyGyroMag.Mean.Freq
+	79	fBodyBodyGyroJerkMag.Mean
+	80	fBodyBodyGyroJerkMag.Std
+	81	fBodyBodyGyroJerkMag.Mean.Freq
